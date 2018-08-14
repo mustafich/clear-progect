@@ -1,48 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3750bad7-2e1e-4557-bb9c-fd5748b49e2d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/sec.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/css/main.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/img/----------------1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/img/11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/img/22.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/img/33.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/img/44.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/img/Previews/Main_Final.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/img/Previews/Main_hover_services.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/img/Previews/Main_services (no hover).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/img/Previews/Всплывашки/Callback_pop_up.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/img/Previews/Всплывашки/Pop_up_Thank_you.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/img/dot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/img/dowble.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/img/header-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/img/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/img/icons/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/img/icons/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/img/icons/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/img/icons/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/img/img.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/img/img1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/img/img2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/img/img3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/img/line.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/img/pattern.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/img/red-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/img/slice-8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/img/Без-имени-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/js/es5/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/js/es5/common.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/js/es5/common.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/js/es5/common.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/js/es6/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/js/es6/common.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/scss/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/scss/_footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/scss/_head.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/scss/_head.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/scss/_red.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/scss/_red.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/scss/_vars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/scss/_vars.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/scss/main.scss" afterDir="false" />
-    </list>
+    <list default="true" id="3750bad7-2e1e-4557-bb9c-fd5748b49e2d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -58,8 +17,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="721">
-              <caret line="50" column="7" lean-forward="true" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
+            <state relative-caret-position="193">
+              <caret line="50" column="7" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -181,7 +140,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../site-portfolio" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
@@ -228,25 +187,25 @@
       <workItem from="1526820584268" duration="266000" />
       <workItem from="1526821073382" duration="4063000" />
       <workItem from="1526911804115" duration="603000" />
+      <workItem from="1534262655091" duration="324000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112036000" />
+    <option name="totallyTimeSpent" value="112360000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Gulp" order="2" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17650159" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17650159" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.31639344" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3155604" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="npm" order="2" side_tool="true" />
@@ -262,22 +221,22 @@
       <window_info id="Gulp" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info id="npm" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17966281" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.21001089" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17966281" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="4" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -639,8 +598,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="721">
-          <caret line="50" column="7" lean-forward="true" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
+        <state relative-caret-position="193">
+          <caret line="50" column="7" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
         </state>
       </provider>
     </entry>
