@@ -66,7 +66,7 @@
           <file leaf-file-name="_head.scss" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/scss/_head.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="279">
+                <state relative-caret-position="582">
                   <caret line="817" column="3" selection-start-line="817" selection-start-column="3" selection-end-line="817" selection-end-column="3" />
                 </state>
               </provider>
@@ -218,12 +218,12 @@
       <workItem from="1534368244237" duration="5232000" />
       <workItem from="1534415732389" duration="12390000" />
       <workItem from="1534501437999" duration="1588000" />
-      <workItem from="1534636128509" duration="1394000" />
+      <workItem from="1534636128509" duration="1485000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="156960000" />
+    <option name="totallyTimeSpent" value="157051000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -237,7 +237,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3297062" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3297062" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="npm" order="2" side_tool="true" />
@@ -623,7 +623,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/scss/_head.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
+        <state relative-caret-position="582">
           <caret line="817" column="3" selection-start-line="817" selection-start-column="3" selection-end-line="817" selection-end-column="3" />
         </state>
       </provider>
