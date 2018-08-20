@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3750bad7-2e1e-4557-bb9c-fd5748b49e2d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/css/main.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/main.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/js/es5/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/js/es5/common.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/js/es5/common.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/js/es5/common.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/js/es6/build/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/js/es6/build/common.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/js/es6/build/common.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/js/es6/build/common.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/js/es6/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/js/es6/common.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/scss/_head.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/scss/_head.scss" afterDir="false" />
-    </list>
+    <list default="true" id="3750bad7-2e1e-4557-bb9c-fd5748b49e2d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -40,7 +29,7 @@
             <entry file="file://$PROJECT_DIR$/app/js/es6/common.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="175">
-                  <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+                  <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
                 </state>
               </provider>
             </entry>
@@ -71,7 +60,7 @@
             <entry file="file://$PROJECT_DIR$/app/scss/_head.scss">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="475">
-                  <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+                  <caret line="19" selection-start-line="19" selection-end-line="19" />
                 </state>
               </provider>
             </entry>
@@ -240,15 +229,15 @@
       <workItem from="1534668666819" duration="615000" />
       <workItem from="1534684426955" duration="640000" />
       <workItem from="1534715591040" duration="598000" />
-      <workItem from="1534763845129" duration="4195000" />
+      <workItem from="1534763845129" duration="4543000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="163008000" />
+    <option name="totallyTimeSpent" value="163356000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info id="Gulp" order="2" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26606956" />
@@ -638,7 +627,7 @@
     <entry file="file://$PROJECT_DIR$/app/js/es6/common.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
-          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -652,7 +641,7 @@
     <entry file="file://$PROJECT_DIR$/app/scss/_head.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
