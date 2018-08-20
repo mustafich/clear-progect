@@ -49,6 +49,9 @@ input {
         a {
           margin-right: 35px;
         }
+        a:hover {
+          color: #FFFFFF;
+        }
         .contactmob {
           margin-top: 4px;
           float: right;
@@ -147,6 +150,7 @@ input {
       line-height: 30px;
     }
     &_butt {
+      margin-bottom: 20px;
       margin-top: 32px;
       a {
         display: flex;
@@ -212,6 +216,12 @@ input {
 
 }
 
+@media (max-width: 1200px) {
+  .head-device_mob {
+    bottom: 63px;
+  }
+}
+
 @media (max-width: 997px) {
   .head {
     margin-top: 0;
@@ -231,6 +241,9 @@ input {
         transform: scaleY(-1) rotate(270deg);
       }
     }
+  }
+  .head-device_mob {
+    bottom: 10px;
   }
 }
 
@@ -466,6 +479,7 @@ input {
 @media (max-width: 997px) {
   .price-block {
     flex-direction: column;
+    align-items: center;
     &_box {
       margin-top: 130px;
       display: flex;
@@ -752,7 +766,7 @@ input {
     justify-content: space-around;
     display: flex;
     margin-top: 50px;
-min-height: 300px;
+    min-height: 300px;
     max-height: 100%;
     h1 {
       font-family: "Roboto-Medium";
@@ -782,7 +796,7 @@ min-height: 300px;
       width: 40px;
       height: 40px;
       background: #ffc038;
-      border-radius: 2px ;
+      border-radius: 2px;
       display: flex;
       justify-content: center;
       align-items: center;
@@ -793,15 +807,16 @@ min-height: 300px;
       }
     }
 
-      :hover {
-        background: floralwhite;
-        color: #ffc038;
-      }
+    :hover {
+      background: floralwhite;
+      color: #ffc038;
+    }
   }
   p {
     color: #9ea5af;
   }
 }
+
 @media (max-width: 998px) {
   .footer-block {
     flex-wrap: wrap;
@@ -812,11 +827,13 @@ min-height: 300px;
     }
   }
 }
+
 @media (max-width: 588px) {
   .footer {
     text-align: center;
   }
 }
+
 .foot {
   text-align: center;
   padding: 20px;
