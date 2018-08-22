@@ -485,7 +485,7 @@ input {
       display: flex;
       justify-content: center;
       &__price {
-        border: 1px solid #ffbf37;
+        border: 1px solid #ffbf37 !important;
       }
       &__butt {
         margin-top: 30px;
@@ -571,39 +571,14 @@ input {
       margin-bottom: 30px;
     }
   }
+  .menu-menu ul li a:hover {
+    color: #ffae00 !important;
+    transition: 0.5s;
+  }
 }
 
 ////////////////////////team///////////////////////////////////////////
 
-//.team {
-////  position: relative;
-////  z-index: 12;
-////  margin-top: 140px;
-////  background: #ffc038;
-////  display: flex;
-////  justify-content: space-around;
-////  &-block {
-////    position: relative;
-////    &_circle {
-////position: relative;
-////      width: 130px;
-////      height: 130px;
-////      background: #FFFFFF;
-////      border-radius: 50%;
-////      z-index: 11;
-////
-////
-////    }
-////    &_box {
-////      position: absolute;
-////      top: 0;
-////      z-index: 11;
-////    }
-////    &_text {
-////
-////    }
-////  }
-////}
 .team {
   background: #ffc038;
   margin-top: 60px;
